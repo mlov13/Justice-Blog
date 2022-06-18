@@ -1,4 +1,6 @@
-# Justice-Blog
+# Justice-Blog#
+Analyzing a special case study of transnational gentrification in the year 2022
+By Maria Lopez Vazquez
 
 No landscape is devoid of power (Mozingo, Interview. 2022), Before the industrial revolution and the widespread of capitalisim as the accepted economical model, there was a different philosophy in terms of how the land was viewed. There was economic disparity but it was not abysmal, people shared a land that was called common lands and were able to earn a living, No one owned the common lands, but everyone had the right to grow crops and sustain themselves and have commerce among each other. (Lnd Arch 170, Class Fall 2022) 
 
